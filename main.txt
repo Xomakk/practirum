@@ -1,0 +1,6 @@
+ M   M  OOO  V   V  AAAAA  V   V  I
+ MM MM O   O V   V  A   A  V   V  I
+ M M M O   O V   V  AAAAA  V   V  I
+ M   M O   O  V V   A   A   V V   I
+ M   M  OOO    V    A   A    V    I
+
